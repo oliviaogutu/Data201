@@ -8,46 +8,53 @@ Detailed materials, labs, readings, and assignments for each week will live in *
 
 ---
 
+## Quick links
+
+| [📁 Resources](resources/) | [📁 Project 1](project1/) | [📁 Project 2](project2/) | [📁 Final Project](final-project/) |
+|----------------------------|---------------------------|---------------------------|------------------------------------|
+
+---
+
 ## Week-by-Week Overview
 
-### Week 1 — Feb 12  
+### [Week 1 — Feb 12](week-01/)  
 **Topics**
 - Course overview  
 - Introduction to Google Colab  
 - Transition from R to Python: fundamentals  
 
-📁 Materials: `week-01/`
+📁 [Open week materials →](week-01/)
 
 ---
 
-### Week 2 — Feb 19  
+### [Week 2 — Feb 19](week-02/)  
 **Topics**
 - R to Python data analysis bridge  
 - Data structures and workflows  
 
-📁 Materials: `week-02/`
+📁 [Open week materials →](week-02/)
 
 ---
 
-### Week 3 — Feb 26  
+### [Week 3 — Feb 26](week-03/)  
 **Topics**
 - R to Python data analysis bridge (continued)  
 - Applied examples and practice  
 
-📁 Materials: `week-03/`
+📁 [Open week materials →](week-03/)
 
 ---
 
-### Week 4 — Mar 5  
+### [Week 4 — Mar 5](week-04/)  
 **Topics**
 - Model form and feature selection  
 - Diagnostics, interactions, and nonlinearity  
 
-📁 Materials: `week-04/`
+📁 [Open week materials →](week-04/)
 
 ---
 
-### Week 5 — Mar 12  
+### [Week 5 — Mar 12](week-05/)  
 **Topics**
 - Feature transformations  
 - Feature selection strategies  
@@ -55,87 +62,89 @@ Detailed materials, labs, readings, and assignments for each week will live in *
 
  **Project 1 Due + Presentations**
 
-📁 Materials: `week-05/`
+📁 [Open week materials →](week-05/)
 
 ---
 
-### Week 6 — Mar 19  
-**Spring Break — No Class** 
+### [Week 6 — Mar 19](week-06/)  
+**Spring Break — No Class**  
+
+📁 [Open week materials →](week-06/)
 
 ---
 
-### Week 7 — Mar 26  
+### [Week 7 — Mar 26](week-07/)  
 **Topics**
 - Extended generalized linear models  
 - Classification methods  
 
-📁 Materials: `week-07/`
+📁 [Open week materials →](week-07/)
 
 ---
 
-### Week 8 — Apr 2  
+### [Week 8 — Apr 2](week-08/)  
 **Topics**
 - Classification (continued)  
 
  **Project 1 Presentations**
 
-📁 Materials: `week-08/`
+📁 [Open week materials →](week-08/)
 
 ---
 
-### Week 9 — Apr 9  
+### [Week 9 — Apr 9](week-09/)  
 **Topics**
 - Resampling methods  
 - Regularization  
 - Optimization concepts  
 
-📁 Materials: `week-09/`
+📁 [Open week materials →](week-09/)
 
 ---
 
-### Week 10 — Apr 16  
+### [Week 10 — Apr 16](week-10/)  
 **Topics**
 - Neural networks  
 - Deep learning fundamentals  
 
-📁 Materials: `week-10/`
+📁 [Open week materials →](week-10/)
 
 ---
 
-### Week 11 — Apr 23  
+### [Week 11 — Apr 23](week-11/)  
 **Topics**
 - Support Vector Machines (SVMs)  
 
-📁 Materials: `week-11/`
+📁 [Open week materials →](week-11/)
 
 ---
 
-### Week 12 — Apr 30  
+### [Week 12 — Apr 30](week-12/)  
 **Topics**
 - Tree-based methods  
 - Decision trees  
 - Random forests  
 
-📁 Materials: `week-12/`
+📁 [Open week materials →](week-12/)
 
 ---
 
-### Week 13 — May 7  
+### [Week 13 — May 7](week-13/)  
 **Topics**
 - Distance-based methods  
 - Clustering techniques  
 
  **Project 2 Presentations**
 
-📁 Materials: `week-13/`
+📁 [Open week materials →](week-13/)
 
 ---
 
-### Week 14 — May 14  
+### [Week 14 — May 14](week-14/)  
 **Final Project and Presentations** 
 (Final Exam Week)
 
-📁 Materials: `week-14/`
+📁 [Open week materials →](week-14/)
 
 ---
 
